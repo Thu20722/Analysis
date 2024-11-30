@@ -9,3 +9,10 @@ Link: https://www.figma.com/design/G6HXpuTpGZvp76zq8ZNCUd/tmdt?node-id=1-3882&t=
 
 - Xây dựng website quản lý đấu giá tại Mỹ: 
 Link: https://www.figma.com/design/AAJwcIefl2tBModInNcdAg/MockProject_062024?node-id=0-1&t=C4Igq2CzikOLKzBK-1
+
+- Xây dựng website bán sách: 
+Link: https://www.figma.com/design/BRrnUZHQG6Pe7dNC8rBaNs/Book-Luxana-(Community)?node-id=0-1&t=tpe9OkCAIE2ScUOP-1
+
+- Xây dựng bộ design system: 
+Link: https://www.figma.com/design/TFchujATwaDzllnqqL3asx/Design-System?node-id=0-1&t=ie3Ckv7IqHRHsxxR-1
+
